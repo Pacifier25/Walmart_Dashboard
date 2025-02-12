@@ -1,6 +1,6 @@
 # Walmart Sales Analysis - Power BI Dashboard
 
-![Dashboard Preview](./dashboard_interaction.gif)
+![Dashboard Preview](https://drive.google.com/uc?id=15NmR3dW2GXzZdJDg-14SaUTX7QClrnh5)
 
 ## 📌 Overview
 This Power BI project provides a comprehensive sales analysis for Walmart, offering insights into sales performance, trends, and key business metrics. The dashboard is designed to help stakeholders make data-driven decisions using interactive visualizations.
@@ -23,7 +23,7 @@ This Power BI project provides a comprehensive sales analysis for Walmart, offer
 - 📑 **Tables with Metrics:** Provide a detailed comparison of sales, item counts, ratings, and visibility per outlet type.
 
 ## 🎥 Interactive Demonstrations
-![Filtering Options](./filtering_demo.gif)  
+![Filtering Options](https://drive.google.com/uc?id=1pgypSwNMpRNGjbepoIsrICD-eWU332Vv)  
 _Showing how filters work to drill down into sales insights._
 
 ![Trend Analysis](./trend_analysis.gif)  
