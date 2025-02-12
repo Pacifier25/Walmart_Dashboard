@@ -26,8 +26,6 @@ This Power BI project provides a comprehensive sales analysis for Walmart, offer
 ![Filtering Options](https://drive.google.com/uc?id=1pgypSwNMpRNGjbepoIsrICD-eWU332Vv)  
 _Showing how filters work to drill down into sales insights._
 
-![Trend Analysis](./trend_analysis.gif)  
-_Visualizing sales trends over the years._
 
 ## 🛠️ Technologies Used
 - 🚀 **Power BI** for data visualization and interactive reporting.  
